@@ -1,0 +1,3 @@
+/home/nadh/Downloads/ProjectUnix_2ING1_BouthaynaNalouti/cmake-build-debug/CMakeFiles/ProjectUnix_2ING1_BouthaynaNalouti.dir
+/home/nadh/Downloads/ProjectUnix_2ING1_BouthaynaNalouti/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nadh/Downloads/ProjectUnix_2ING1_BouthaynaNalouti/cmake-build-debug/CMakeFiles/rebuild_cache.dir
